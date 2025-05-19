@@ -1,0 +1,3 @@
+  verificarFimDeJogo();
+  plantas.map((arvore) => arvore.mostrar());
+}
