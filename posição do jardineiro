@@ -1,0 +1,5 @@
+atualizar() {
+  if (keyIsdown(LEFT_ARROW)){
+    this.x -= this.velocidade;
+  }
+  if (keyIsDown(RIGHT)) {
